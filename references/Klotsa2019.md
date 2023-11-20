@@ -1,0 +1,3 @@
+Klotsa, D. (2019). As above, so below, and also in between: mesoscale active matter in fluids. Soft matter, 15(44), 8946-8950.
+
+This is a review on soft living matter. “Soft” means the properties and structures are determined by entropy. “Living matter” means considering the processes of life — replication, movement and integrity — as dynamic changes driven by energy. I’m particular struck by the observation that “the flocks of organisms are themselves each made of tissues of cells.” From spending time watching animal groups last year to protein assemblies now, I see the fractal-like repetition of patterns, such as the sudden transition between swarming and order, across the scales. Is there a meaningful explanation?
