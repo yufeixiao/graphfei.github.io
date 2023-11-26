@@ -1,10 +1,11 @@
 # Natural language
 
-## first part: informed individual
+## (1) informed individual
 in a system of N particles, each particle has a base level of information about its environment and the group's objective. this is similar to how a school of fish that is migrating has a goal of going to the migratory destination, or the school of fish that is foraging has a goal of finding clumps of shrimps and recruiting the group to exploit that food site. 
+
 we are considering 2 minimal modes where individuals calibrate their information to the environment: (1) each individual has an inherent level of sensitivity to the true right direction, which persists to affect the orientation of the individual without changing over time from neighbor influence, and this is parameterized by the ratio of individuals who are informed, and the strength of this external information or belief compared to the influence of neighbors.  the individuals who are informed are randomly assigned instead of based on original location in the system, because the system is supposedly an infinite canvas. (2) individuals have different levels of social influence over others, meaning that some individuals can have a higher weight in the alignment of a neighbor than others. this doesn't affect the individual's orientation itself. this mechanism is borrowing from observations that some animals who are more senior or higher in the hierarchy can affect more members through closer proximity to many others or higher channel sensitivity of others towards them. 
 
-## second part: swarming
+## (2) swarming
 at each time step, the particles can interact in an infinite size system (with periodic boundary). 
 there are 3 modes of interaction: (1) metric (parameterized by distance threshold), (3) topological (KNN, parameterized by K), (3) topological (Voronoi). I'm not including the topological (Delaunay triangle) mode or the vision based mode (parameterized by loss over distance). 
 the interaction with neighbors affects the orientation of the particles, parameterized by an alignment strength (but not by repulsion and attraction).
