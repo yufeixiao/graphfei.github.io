@@ -32,7 +32,9 @@ Alignment Strength:
 # Formulas:
 Informed Individual: 
 - Each particle's orientation is influenced by both external information and the average orientation of its neighbors.
+
 Social Influence:
 - Weighted average of neighbors' orientations, where weights are given by social_influence_weights.
+
 Swarming Interaction:
 - Depending on the interaction mode, calculate neighbors and update the orientation based on the average of their orientations.
