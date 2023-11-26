@@ -1,5 +1,6 @@
 # Complex System HCs 
 In my first year at Minerva, I was most attracted to the course on complex systems. My impression was that a complex system is anything in the world that has a irreducible component, which is basically everything (except perfect heat engines and subatomic interactions with precise well-known reductions). The facade of a theory of everything attracted me. Then the realization that the generality implied many challenges in applying these beautiful ideas to specific cases (socailly, naturally) made me still more interested. 
+
 Here I first introduce the mental models we learned (primarily from Melanie Mitchell's "Complexity: A Primer"). Then I would like to dive into the quantitative nuances and challenges of applying the concepts in differential equations and statistical mechanics. Finally I would like to extend these textbook knowledge into the review and extension of research projects related to flocking and materiality of life within the animal to cell scale. 
 ## Emergent Properties
 In my own words, emergent property is a descriptive statistic of a set of things with relationships. For example, the fluffiness of a cotton candy does not come from the fluffiness of each molecule in it, but rather the structure of the molecules binding. 
